@@ -72,7 +72,6 @@ From the workspace root:
 cd link-saver
 npm install
 cd ../mock-service
-npm install
 ```
 
 ### 2. Start the mock Metadata Service
@@ -109,7 +108,3 @@ npm test
 npm run lint
 npm run build
 ```
-
-## Linear Board
-
-- Replace this line with your actual Linear board URL before submission.
